@@ -2,11 +2,11 @@
 
 ## Windows (the PC that runs the globe)
 
-**[Download the Windows installer](https://github.com/iindiie/AATW-Public-download/raw/main/GlobeTrek-Setup.exe)** (version 1.4.0, about 28 MB)
+**[Download the Windows installer](https://github.com/iindiie/AATW-Public-download/raw/main/GlobeTrek-Setup.exe)** (version 1.5.0, about 28 MB)
 
 Run the installer. No admin rights are needed. If Windows SmartScreen appears, choose **More info**, then **Run anyway**, because the installer is not code signed. When Windows asks whether Globe Trek may use the network, allow it on **Private networks** so the phone app can reach it.
 
-SHA-256: `95ca4a3038dbea62c0ab390b16bcf43a3da2aa2e144fc70341a4703ee8f64770`
+SHA-256: `774ca7face924de695c724b581f2fd56458f565e2accbcabad939b5c980f9908`
 
 ## Mac
 
@@ -26,10 +26,10 @@ SHA-256: Intel dmg `bcbc5e3405cbd2bb4703a241caa6b264dfbe74314744da5078a0db2e3270
 
 ## Android (Angela's phone)
 
-**[Download Globe Trek Remote for Android](https://github.com/iindiie/AATW-Public-download/raw/main/GlobeTrekRemote.apk)** (version 1.2.0)
+**[Download Globe Trek Remote for Android](https://github.com/iindiie/AATW-Public-download/raw/main/GlobeTrekRemote.apk)** (version 1.3.0)
 
 If an older Globe Trek Remote is installed, uninstall it first: this version is signed differently and will not install over it.
 
 Open the downloaded file on the phone and allow installing from your browser when Android asks. Then, on the PC, press Ctrl+M (Option+M on a Mac), open **Mode**, and either tap **Scan QR code** in the app, or scan the QR code with the phone camera and the app opens by itself.
 
-SHA-256: `011e1f933f20d5482b7705ffeca9cd82c8b15e6d84506dbe9491026402e39606`
+SHA-256: `5ea32e969e71e22397c570a157fc35fb1c8bea9977b480e4c6fbd1c4c2295654`
