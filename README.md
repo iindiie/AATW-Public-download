@@ -2,11 +2,11 @@
 
 ## Windows (the PC that runs the globe)
 
-**[Download the Windows installer](https://github.com/iindiie/AATW-Public-download/raw/main/GlobeTrek-Setup.exe)** (version 1.5.0, about 28 MB)
+**[Download the Windows installer](https://github.com/iindiie/AATW-Public-download/raw/main/GlobeTrek-Setup.exe)** (version 1.5.1, about 28 MB)
 
 Run the installer. No admin rights are needed. If Windows SmartScreen appears, choose **More info**, then **Run anyway**, because the installer is not code signed. When Windows asks whether Globe Trek may use the network, allow it on **Private networks** so the phone app can reach it.
 
-SHA-256: `774ca7face924de695c724b581f2fd56458f565e2accbcabad939b5c980f9908`
+SHA-256: `5dd6d59de79d78c38ebf8564f2e2e73412d251df84924e5ebe6837a2ec8c6989`
 
 ## Mac
 
@@ -21,8 +21,8 @@ Disk image: open it and drag **Globe Trek** to **Applications**. Zip: open it, t
 
 The app is not notarized by Apple, so the first time you open it macOS says it cannot verify it. Click **Done**, then go to **System Settings**, **Privacy & Security**, scroll down and click **Open Anyway** next to Globe Trek. The globe opens in Google Chrome or Microsoft Edge if one is installed, otherwise in your default browser. Quit Globe Trek from the Dock to stop it. Press **Option+M** for settings. Settings are kept in `~/Library/Application Support/Globe Trek`.
 
-SHA-256: Apple Silicon dmg `fe03b4711e8f6c44bb55e7a70d572325ff12c38acb23c2470664b2d1e68fe29e`, zip `8d38aae0060b57065fcda04cba0cdfe77aecb16b9717c2201d89f4a3cc7f5236`  
-SHA-256: Intel dmg `bcbc5e3405cbd2bb4703a241caa6b264dfbe74314744da5078a0db2e3270f00a`, zip `a510682f4dd98df7366f3f807ad5510f25579fb98880b1050240faa843096efe`
+SHA-256: Apple Silicon dmg `b230e5077a7ea75000dd89a29e3078495baeea4b1e054e77fda34a981b673ad9`, zip `9e32ef5584d2fd48271021b953421af7583004e84bab7708a316d4d64530f723`  
+SHA-256: Intel dmg `d6b9e9b8c1f43c0b0661ee89bc7326c72135db5054883319c0217f2c4cc74104`, zip `58be06cd2694da39970fa5c6bfb373cd139e511ee941d60638c64a8c45055e1e`
 
 ## Android (Angela's phone)
 
