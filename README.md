@@ -21,8 +21,8 @@ Disk image: open it and drag **Globe Trek** to **Applications**. Zip: open it, t
 
 The app is not notarized by Apple, so the first time you open it macOS says it cannot verify it. Click **Done**, then go to **System Settings**, **Privacy & Security**, scroll down and click **Open Anyway** next to Globe Trek. The globe opens in Google Chrome or Microsoft Edge if one is installed, otherwise in your default browser. Quit Globe Trek from the Dock to stop it. Press **Option+M** for settings. Settings are kept in `~/Library/Application Support/Globe Trek`.
 
-SHA-256: Apple Silicon dmg `df6b23d69f559dd06039291954afd2eb6e77479c8e4425b50db7d9d8051c6100`, zip `91f4da6ab888ba3d755f458efcfe7153f3175c9eab6f580ec92e9569a412a787`  
-SHA-256: Intel dmg `2d4d26f0e664794247435a4aae3f152d9e64c9f1f23957fc72024946581004dc`, zip `6866ed533cae256cf8fff44908b152f221de04f40a83d89a74e933403f9eb39a`
+SHA-256: Apple Silicon dmg `933f9f9089973730075602b554a4201f3b46ac06d896abc51b744e5902806953`, zip `e4e8dc449ce6b862398a317630b1b513034c4eab3d572ea62eaa3676e02f1cb9`  
+SHA-256: Intel dmg `f57bea6c8668175395ad0319edd10c052646a6160c92cecc4ab417ebf6849ba5`, zip `5ccd78fe0dc07ea9f8bf8b05603be5cf0d3fac3a6f87b53fcef0cbb9ff6c3a1d`
 
 ## Android (Angela's phone)
 
