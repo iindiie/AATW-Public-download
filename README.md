@@ -2,11 +2,11 @@
 
 ## Windows (the PC that runs the globe)
 
-**[Download the Windows installer](https://github.com/iindiie/AATW-Public-download/raw/main/GlobeTrek-Setup.exe)** (version 1.5.4, about 28 MB)
+**[Download the Windows installer](https://github.com/iindiie/AATW-Public-download/raw/main/GlobeTrek-Setup.exe)** (version 1.5.5, about 28 MB)
 
 Run the installer. No admin rights are needed. If Windows SmartScreen appears, choose **More info**, then **Run anyway**, because the installer is not code signed. When Windows asks whether Globe Trek may use the network, allow it on **Private networks** so the phone app can reach it.
 
-SHA-256: `67e1be672953171e410d8a4f844c918fe417797ecbbbd7a9be596f570ea09f45`
+SHA-256: `bf735cc67f8f763217dab129d603af5fcc26bf0784c4681267411df39e805a58`
 
 ## Mac
 
